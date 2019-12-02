@@ -48,13 +48,8 @@ client.on("message", (channel, user, message, self) => {
             savePushups();
         }
         if(message.toLowerCase() === "!reset") {
-<<<<<<< HEAD
             numOfPushups = 0;
             savePushups();
-=======
-            savePushups();
-            numOfPushups = 0;
->>>>>>> 3f9041c9ab55d35b87eb6be954969345ff2dd432
         }
         function savePushups() {
             
