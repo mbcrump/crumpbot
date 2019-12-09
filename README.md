@@ -28,3 +28,5 @@ What is it? It is a simple bot to use in your Twitch chat to track pushups! Your
 * `!add` to add 10 pushups
 * `!remove` to remove 10 pushups
 * `!reset` to reset back to 0 pushups
+
+Find me on [Twitter](https://twitter.com/mbcrump) or [Twitch](https://twitch.tv/mbcrump) for questions.
