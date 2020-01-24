@@ -1,7 +1,7 @@
 
-## Crumpbot for Twitch
+## Python Chatbot for Twitch From Scratch
 
-What is it? It is a simple bot to use in your Twitch chat to track pushups! Your viewers can always see how much pushups that you have left to do on stream and your moderator can add/remove/reset pushups to the queue. 
+What is it? It is a simple bot that I created to use in your Twitch chat to track pushups! Your viewers can always see how much pushups that you have left to do on stream and your moderator can add/remove/reset pushups to the queue. But furthermore, it is for learning how to create a Twitch bot using Python, creating and securing your client keys and persisting data throughout sessions. 
 
 ![](/chatbot-demo.gif)
 
